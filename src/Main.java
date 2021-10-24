@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int ticketCoast = 20000;
+        int ticketCoast = 2000;
         int oneMile = 20;
         int totalMile = ticketCoast / oneMile;
 
